@@ -2,7 +2,7 @@
 
 ## Setup & Installation
 
-Make sure you have the latest version of Python installed.
+Make sure you have the latest version of Python installed.this is a test to use Git
 
 ```bash
 git clone <repo-url>
